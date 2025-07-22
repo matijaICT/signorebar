@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+<item>
+ <title>Signore Bar </title>
+  <link></link>
+  <description>Located in the heart of Belgrade, Signore Bar is a cafe restaurant that leaves a first impression with its spacious garden and irresistible interior.</description>
+</item>
+  <item>
+    <title>About us</title>
+    <link></link>
+    <description>Founded in 1993, ASK Italian is a family of 65 restaurants across the UK. We may not be a traditional trattoria but we’re connected by a love of Italy, great food and sociable mealtimes, just like a big unconventional family. We invite customers to enter our restaurants and leave behind the daily grind, welcomed by our teams and inspired by our interiors. Our teams are passionate about giving our customers the best experience so you can concentrate on enjoying the food, the company and your time together.</description>
+  </item>
+<item>
+ <title>Galery </title>
+  <link></link>
+  <description>Beautiful Italian food in our restaurant</description>
+</item>
+<item>
+ <title> Contact</title>
+  <link></link>
+  <description>Please contact us</description>
+</item>
+<item>
+ <title> Author</title>
+  <link></link>
+  <description>My name is Matija Čalić, I am 21 years old. At the age of 5, I got my first computer and since then I have become interested in everything that goes with it.</description>
+</item>
+</channel>
+</rss>
